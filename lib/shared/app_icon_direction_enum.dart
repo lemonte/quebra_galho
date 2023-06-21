@@ -1,0 +1,4 @@
+enum AppIconDirectionEnum {
+  left,
+  right,
+}
